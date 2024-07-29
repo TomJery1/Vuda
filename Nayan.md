@@ -1,19 +1,19 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
+name : ```Shakil Developer```</br>
 age : ```19```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+link : [facebook](https://www.facebook.com/ceokuangtomyi).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+modified : [SHAKIL](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Shakil Developer```
 
 ## CONFIG AND CUSTOM
 
 Nayan.js : ``configure auto restart and auto accept pending messages.``</br>
 Nayan.json : ``configure bot name, bot prefix, bot operators and admins.``</br>
-Nayanstate.json : ``account cache data.``
+Shakilstate.json : ``account cache data.``
 
 ## BOX APPROVAL
 
@@ -36,7 +36,7 @@ remove box from approved list
 approve remove 4834812366643016
 ```
 
-## HOW TO GET 'NayanSTATE.JSON' DATA?
+## HOW TO GET 'ShakilSTATE.JSON' DATA?
 
 to get ``Nayanstate.json`` data, please follow these steps :</br>
 
